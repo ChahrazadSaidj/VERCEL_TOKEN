@@ -1,4 +1,4 @@
-name: Déploiement vers Vercel
+name: Déploiement vers Vercel après exécution des tests
 
 # Condition de déclenchement
 on:
